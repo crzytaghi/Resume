@@ -15,7 +15,7 @@
 - [Fore!](https://fierce-brushlands-74442.herokuapp.com/): Created a full stack golf application utilizing PostgreSQL and PHP backend with ReactJS front-end. 
 
 ## Experience
-### RigUp | Customer Success / Program Manager | Austin, TX | Apr. 2018 - Nov. 2019
+### RigUp | Program Manager | Austin, TX | Apr. 2018 - Nov. 2019
 - Built and grew the RigUp Connect program from $1.1M/month in revenue to ~$6.5M/month, tailoring specific accounts to benefit each client individually
 -	Collaborated with product/engineering team to build a new client-facing invoicing portal based on customer feedback and input, decreasing internal administrative time by 60%
 -	Spearheaded the sale and initial growth of a major account from $17,000 to $350,000 a month over a 6-month period, increasing client efficiency while decreasing spend within specific divisions
